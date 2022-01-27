@@ -1,0 +1,6 @@
+sample data
+int i=100
+{
+
+
+}
